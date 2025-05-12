@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">A passionate Fullstack developer from Vietnam</h3>
+<h3 align="center">Welcome to my GitHub.  These repositories save some courses which I passed in my development progress.</h3>
 
 - 📫 How to reach me **quangminh4604@gmail.com**
 - 📱Mobile **+84 966 221 549**
